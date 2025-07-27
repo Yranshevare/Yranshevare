@@ -13,7 +13,6 @@
 
 ### 🌐 Connect with Me
 <br/>
-<br/>
 <p align="center">
   <a href="https://yranshevare.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -33,7 +32,6 @@
 ---
 
 ### 💻 Tech Stack
-<br/>
 <br/>
 
 <p align="center">
