@@ -11,27 +11,28 @@
 
 ---
 
-### 🌐 Connect with Me
+<h3 align="center">🌐 Connect with Me<h3/>
 <br/>
 <p align="center">
   <a href="https://yranshevare.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
+  </a>&nbsp;
   <a href="https://www.linkedin.com/in/yadnesh-ranshevare-2083962b0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  </a>&nbsp;
   <a href="https://www.instagram.com/yadnesh_ranshevare?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+  </a>&nbsp;
   <a href="https://github.com/Yranshevare" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  </a>&nbsp;
 </p>
 <br/>
 
 ---
 
-### 💻 Tech Stack
+
+<h3 align="center">💻 Tech Stack<h3/>
 <br/>
 
 <p align="center">
@@ -59,7 +60,9 @@
 
 ---
 
-### 📊 GitHub Stats
+
+<h3 align="center">📊 GitHub Stats<h3/>
+<br/>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yranshevare&theme=tokyonight&hide_border=true" />
@@ -68,7 +71,8 @@
 </p>
 
 ---
-### 📝 My Coding Notes
+
+<h3 align="center">📝 My Coding Notes<h3/>
 <br/>
 
 📚 I maintain a second GitHub account where I organize all my coding notes, interview prep, and tech study material.  
@@ -78,7 +82,8 @@ Check it out here 👉 [**@Yadnesh-Ranshevare**](https://github.com/Yadnesh-Rans
 
 ---
 
-### 📂 My Projects
+
+<h3 align="center">📂 My Projects<h3/>
 <br/>
 
 | Project Name | Description | Tech Stack | Link |
@@ -86,13 +91,13 @@ Check it out here 👉 [**@Yadnesh-Ranshevare**](https://github.com/Yadnesh-Rans
 | 🧾 **YC Directory (Next.js)** | A platform to showcase startup ideas and promote awareness.| Next.js, nextOAuth, Sanity | [🔗 View Repo](https://github.com/Yranshevare/YC_directory.git) |
 | 🛒 **Social Media Analyzer** | Analyzes mock social media data to generate insights using Gemini integration.| Next.js, LangFlow , AstraDB, gemini | [🔗 View Repo](https://github.com/Yranshevare/social_media_analyzer.git) |
 | 🛍️ **Automate Product Purchase** |Automates the procurement process (RFQ) with email automation to streamline vendor communication. | React, Django, MySql | [🔗 View Repo](https://github.com/Yranshevare/Automate_Product_purchase.git) |
-| 🌐 **Carbon Footprint Calculator** |Estimates a user’s carbon footprint based on daily habits, integrated with LangFlow for AI-powered analysis. | HTML, CSS | [🔗 View Repo](https://github.com/Yranshevare/carbon_footprint.git) |
+| 🌐 **Carbon Footprint Calculator** |Estimates a user’s carbon footprint based on daily habits, integrated with LangFlow for AI-powered analysis. | React, Express.js, MongoDb | [🔗 View Repo](https://github.com/Yranshevare/carbon_footprint.git) |
 
 ---
 
 
 
-### ✍️ Quote of the Day
+<h3 align="center">✍️ Quote of the Day<h3/>
 <br/>
 
 <p align="center">
@@ -103,7 +108,10 @@ Check it out here 👉 [**@Yadnesh-Ranshevare**](https://github.com/Yadnesh-Rans
 
 
 
+
 ### 🎨 Fun Fact About Me
+
+
 
 > 💻 Developer by mind  
 > ✏️ Artist by heart  
