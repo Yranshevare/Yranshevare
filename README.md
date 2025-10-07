@@ -41,9 +41,9 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -56,10 +56,13 @@
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white" />
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
-<img src="https://img.shields.io/badge/Langflow-4B4B4B?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
+  <img src="https://img.shields.io/badge/Langflow-4B4B4B?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
 </p>
+
 <br/>
 
 ---
@@ -96,6 +99,8 @@ Check it out here 👉 [**@Yadnesh-Ranshevare**](https://github.com/Yadnesh-Rans
 | 🛒 **Social Media Analyzer** | Analyzes mock social media data to generate insights using Gemini integration.| Next.js, LangFlow , AstraDB, gemini | [🔗 View Repo](https://github.com/Yranshevare/social_media_analyzer.git) |
 | 🛍️ **Automate Product Purchase** |Automates the procurement process (RFQ) with email automation to streamline vendor communication. | React, Django, MySql | [🔗 View Repo](https://github.com/Yranshevare/Automate_Product_purchase.git) |
 | 🌐 **Carbon Footprint Calculator** |Estimates a user’s carbon footprint based on daily habits, integrated with LangFlow for AI-powered analysis. | React, Express.js, MongoDb | [🔗 View Repo](https://github.com/Yranshevare/carbon_footprint.git) |
+| 🕹️ **V-Room** | A secure, login-free chat app enabling private communication that auto-deletes all data after each session. | Next.Js, Redis, socket IO, Express | [🔗 View Repo](https://github.com/Yranshevare/V-Room.git) |
+| 📘 **Catalogue Website** | A full-stack e-commerce catalogue platform for showcasing and managing factory products. | Next.Js, Prisma, Mongodb | [🔗 View Repo](https://github.com/Yranshevare/Catalogue_website.git) |
 
 ---
 
