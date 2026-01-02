@@ -98,7 +98,7 @@ Check it out here 👉 [**@Yadnesh-Ranshevare**](https://github.com/Yadnesh-Rans
 | Project Name | Description | Tech Stack | Link |
 |--------------|-------------|------------|------|
 | 🧾 **YC Directory (Next.js)** | A platform to showcase startup ideas and promote awareness.| Next.js, nextOAuth, Sanity | [🔗 View Repo](https://github.com/Yranshevare/YC_directory.git) |
-| 🧠 **BugToPro_AI** | AI is a learning platform that helps developers improve by reviewing their code and providing AI feedback.| Next.js, Langchain, Langgraph, Mongodb, supabase, gemini | [🔗 View Repo](https://github.com/Yranshevare/BugToPro_AI.git) |
+| 🧠 **BugToPro_AI** | AI powered learning platform that helps developers improve by reviewing their code and providing AI feedback.| Next.js, Langchain, Langgraph, Mongodb, supabase, gemini | [🔗 View Repo](https://github.com/Yranshevare/BugToPro_AI.git) |
 | 🛍️ **Automate Product Purchase** |Automates the procurement process (RFQ) with email automation to streamline vendor communication. | React, Django, MySql | [🔗 View Repo](https://github.com/Yranshevare/Automate_Product_purchase.git) |
 | 🌐 **Carbon Footprint Calculator** |Estimates a user’s carbon footprint based on daily habits, integrated with LangFlow for AI-powered analysis. | React, Express.js, MongoDb | [🔗 View Repo](https://github.com/Yranshevare/carbon_footprint.git) |
 | 🕹️ **V-Room** | A secure, login-free chat app enabling private communication that auto-deletes all data after each session. | Next.Js, Redis, socket IO, Express | [🔗 View Repo](https://github.com/Yranshevare/V-Room.git) |
