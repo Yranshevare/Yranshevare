@@ -54,14 +54,16 @@
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white" />
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
-  <img src="https://img.shields.io/badge/Langflow-4B4B4B?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-1C1C1C?style=for-the-badge&logo=langgraph&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
 </p>
+
 
 <br/>
 
@@ -96,7 +98,7 @@ Check it out here 👉 [**@Yadnesh-Ranshevare**](https://github.com/Yadnesh-Rans
 | Project Name | Description | Tech Stack | Link |
 |--------------|-------------|------------|------|
 | 🧾 **YC Directory (Next.js)** | A platform to showcase startup ideas and promote awareness.| Next.js, nextOAuth, Sanity | [🔗 View Repo](https://github.com/Yranshevare/YC_directory.git) |
-| 🛒 **Social Media Analyzer** | Analyzes mock social media data to generate insights using Gemini integration.| Next.js, LangFlow , AstraDB, gemini | [🔗 View Repo](https://github.com/Yranshevare/social_media_analyzer.git) |
+| 🧠 **BugToPro_AI** | AI is a learning platform that helps developers improve by reviewing their code and providing AI feedback.| Next.js, Langchain, Langgraph, Mongodb, supabase, gemini | [🔗 View Repo](https://github.com/Yranshevare/BugToPro_AI.git) |
 | 🛍️ **Automate Product Purchase** |Automates the procurement process (RFQ) with email automation to streamline vendor communication. | React, Django, MySql | [🔗 View Repo](https://github.com/Yranshevare/Automate_Product_purchase.git) |
 | 🌐 **Carbon Footprint Calculator** |Estimates a user’s carbon footprint based on daily habits, integrated with LangFlow for AI-powered analysis. | React, Express.js, MongoDb | [🔗 View Repo](https://github.com/Yranshevare/carbon_footprint.git) |
 | 🕹️ **V-Room** | A secure, login-free chat app enabling private communication that auto-deletes all data after each session. | Next.Js, Redis, socket IO, Express | [🔗 View Repo](https://github.com/Yranshevare/V-Room.git) |
