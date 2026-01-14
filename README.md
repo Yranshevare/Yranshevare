@@ -74,9 +74,9 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yranshevare&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=yranshevare&theme=tokyonight&hide_border=true" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yranshevare&theme=tokyonight&layout=compact&hide_border=true" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yranshevare&theme=tokyonight&layout=compact&hide_border=true" />
 </p>
 
 ---
