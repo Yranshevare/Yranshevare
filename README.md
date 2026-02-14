@@ -14,7 +14,7 @@
 <h3 align="center">🌐 Connect with Me<h3/>
 <br/>
 <p align="center">
-  <a href="[https://yranshevare.netlify.app/](https://portfolio-three-livid-99.vercel.app/)" target="blank">
+  <a href="https://portfolio-three-livid-99.vercel.app/" target="blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>&nbsp;
   <a href="https://www.linkedin.com/in/yadnesh-ranshevare-2083962b0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
