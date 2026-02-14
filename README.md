@@ -14,16 +14,16 @@
 <h3 align="center">🌐 Connect with Me<h3/>
 <br/>
 <p align="center">
-  <a href="https://yranshevare.netlify.app/" target="_blank">
+  <a href="[https://yranshevare.netlify.app/](https://portfolio-three-livid-99.vercel.app/)" target="blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>&nbsp;
   <a href="https://www.linkedin.com/in/yadnesh-ranshevare-2083962b0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;
-  <a href="https://www.instagram.com/yadnesh_ranshevare?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank">
+  <a href="https://www.instagram.com/yadnesh_ranshevare?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>&nbsp;
-  <a href="https://github.com/Yranshevare" target="_blank">
+  <a href="https://github.com/Yranshevare" target="blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>&nbsp;
 </p>
