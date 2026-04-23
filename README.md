@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Yadnesh Ranshevare</h1>
-<p align="center">🚀 3rd Year IT Engineering Student | 💻 Web Developer in Progress | ✨ Sketch Artist | 🍥 Anime Fan</p>
+<p align="center">🚀 3rd Year IT Engineering Student | 💻 Web Developer | 🤖 AI Engineer | ✨ Sketch Artist | 🍥 Anime Fan</p>
 
 
 
