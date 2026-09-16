@@ -2,7 +2,7 @@
 
 <h3 align="center">👨‍💻 About Me</h3>
 
-<p align="center" max-width="500px">IT Engineering student and Full Stack Developer specializing in Next.js, Node.js, and LLM-based applications. Building scalable, intelligent web solutions.</p>
+<p align="center" max-width="300px">IT Engineering student and Full Stack Developer specializing in Next.js, Node.js, and LLM-based applications. Building scalable, intelligent web solutions.</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3DDC84&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+profile!;Let%27s+build+something+cool+together!;Happy+coding+%F0%9F%92%BB" />
@@ -83,7 +83,7 @@
 <h3 align="center">📝 My Coding Notes</h3>
 <br/>
 
-<p align="center" max-width="500px">📚 I maintain a second GitHub account where I organize all my coding notes, interview prep, and tech study material.  
+<p align="center" max-width="300px">📚 I maintain a second GitHub account where I organize all my coding notes, interview prep, and tech study material.  
 Check it out here 👉 <a href="https://github.com/Yadnesh-Ranshevare">@Yadnesh-Ranshevare</a></p>
 
 ---
