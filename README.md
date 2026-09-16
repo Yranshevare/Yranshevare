@@ -1,5 +1,5 @@
 <video
-  src="./banner.mp4"
+src="https://res.cloudinary.com/dknlbzgap/video/upload/v1789572204/q5r1ac8xjnohllghqxm7.mp4"
   autoplay
   muted
   loop
@@ -9,8 +9,11 @@
 
 <h3 align="center">👨‍💻 About Me</h3>
 
-<p align="center">IT Engineering student and Full Stack Developer specializing in Next.js, Node.js, and LLM-based applications. Building scalable, intelligent web solutions.</p>
+<p align="center" max-width="500px">IT Engineering student and Full Stack Developer specializing in Next.js, Node.js, and LLM-based applications. Building scalable, intelligent web solutions.</p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3DDC84&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+profile!;Let%27s+build+something+cool+together!;Happy+coding+%F0%9F%92%BB" />
+</p>
 
 ---
 
@@ -80,26 +83,28 @@
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yranshevare&theme=tokyonight&layout=compact&hide_border=true" />
 </p>
 
----
 
-<h3 align="center">📝 My Coding Notes<h3/>
-
-<br/>
-
-📚 I maintain a second GitHub account where I organize all my coding notes, interview prep, and tech study material.  
-Check it out here 👉 [**@Yadnesh-Ranshevare**](https://github.com/Yadnesh-Ranshevare)
 
 ---
 
-<h3 align="center">📂 My Projects<h3/>
+<h3 align="center">📝 My Coding Notes</h3>
 <br/>
 
-| Project Name                     | Description                                                                                                                                                                                    | Tech Stack                                       | Link                                                                         |
-| -------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ | ---------------------------------------------------------------------------- |
-| 🛍️ **Automate Product Purchase** | Automates the procurement process (RFQ) with email automation to streamline vendor communication.                                                                                              | React, Django, MySql                             | [🔗 View Repo](https://github.com/Yranshevare/Automate_Product_purchase.git) |
-| 🕹️ **V-Room**                    | A secure, login-free chat app enabling private communication that auto-deletes all data after each session.                                                                                    | Next.Js, Redis, socket IO, Express               | [🔗 View Repo](https://github.com/Yranshevare/V-Room.git)                    |
-| 🧠 **BugToPro_AI**               | AI powered learning platform that helps developers improve by reviewing their code and providing AI feedback.                                                                                  | Next.js, Langchain, Langgraph, Mongodb, supabase | [🔗 View Repo](https://github.com/Yranshevare/BugToPro_AI.git)               |
-| 🤖 Orchestrator                  | A vendor-agnostic AI orchestration platform that centralizes project context, breaks down tasks, and coordinates multiple AI coding agents in parallel through a unified development workflow. | TypeScript, OpenTUI, Langgraph                   | [🔗 View Repo](https://github.com/Yranshevare/Orchestrator.git)              |
+<p align="center" max-width="500px">📚 I maintain a second GitHub account where I organize all my coding notes, interview prep, and tech study material.  
+Check it out here 👉 <a href="https://github.com/Yadnesh-Ranshevare">@Yadnesh-Ranshevare</a></p>
+
+---
+
+<h3 align="center">📂 My Projects</h3>
+
+<br/>
+
+| Project Name                      | Description                                                                                                                                                                                    | Tech Stack                                       | Link                                                                     |
+| --------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ | ------------------------------------------------------------------------ |
+| 🛍️ **Automate Product Purchase** | Automates the procurement process (RFQ) with email automation to streamline vendor communication.                                                                                              | React, Django, MySQL                             | [🔗 View Repo](https://github.com/Yranshevare/Automate_Product_purchase) |
+| 🕹️ **V-Room**                    | A secure, login-free chat app enabling private communication that auto-deletes all data after each session.                                                                                    | Next.js, Redis, Socket.IO, Express               | [🔗 View Repo](https://github.com/Yranshevare/V-Room)                    |
+| 🧠 **BugToPro_AI**                | AI-powered learning platform that helps developers improve by reviewing their code and providing AI feedback.                                                                                  | Next.js, LangChain, LangGraph, MongoDB, Supabase | [🔗 View Repo](https://github.com/Yranshevare/BugToPro_AI)               |
+| 🤖 **Orchestrator**               | A vendor-agnostic AI orchestration platform that centralizes project context, breaks down tasks, and coordinates multiple AI coding agents in parallel through a unified development workflow. | TypeScript, OpenTUI, LangGraph                   | [🔗 View Repo](https://github.com/Yranshevare/Orchestrator)              |
 
 ---
 
