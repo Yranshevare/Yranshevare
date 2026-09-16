@@ -1,13 +1,16 @@
+<video
+  src="./banner.mp4"
+  autoplay
+  muted
+  loop
+  playsinline
+  width="100%">
+</video>
 
+<h3 align="center">👨‍💻 About Me</h3>
 
-<h1 align="center">Hi 👋, I'm Yadnesh Ranshevare</h1>
-<p align="center">🚀 Final Year IT Engineering Student | 💻 Web Developer | 🤖 AI Engineer | ✨ Sketch Artist | 🍥 Anime Fan</p>
+<p align="center">IT Engineering student and Full Stack Developer specializing in Next.js, Node.js, and LLM-based applications. Building scalable, intelligent web solutions.</p>
 
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3DDC84&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+profile!;Let%27s+build+something+cool+together!;Happy+coding+%F0%9F%92%BB" />
-</p>
 
 ---
 
@@ -30,7 +33,6 @@
 <br/>
 
 ---
-
 
 <h3 align="center">💻 Tech Stack<h3/>
 <br/>
@@ -62,13 +64,12 @@
   <img src="https://img.shields.io/badge/LangGraph-1C1C1C?style=for-the-badge&logo=langgraph&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-FFFFFF?style=for-the-badge&logo=ollama&logoColor=black" />
 </p>
-
 
 <br/>
 
 ---
-
 
 <h3 align="center">📊 GitHub Stats<h3/>
 <br/>
@@ -82,31 +83,25 @@
 ---
 
 <h3 align="center">📝 My Coding Notes<h3/>
+
 <br/>
 
 📚 I maintain a second GitHub account where I organize all my coding notes, interview prep, and tech study material.  
 Check it out here 👉 [**@Yadnesh-Ranshevare**](https://github.com/Yadnesh-Ranshevare)
-<br/>
-<br/>
 
 ---
-
 
 <h3 align="center">📂 My Projects<h3/>
 <br/>
 
-| Project Name | Description | Tech Stack | Link |
-|--------------|-------------|------------|------|
-| 🧾 **YC Directory (Next.js)** | A platform to showcase startup ideas and promote awareness.| Next.js, nextOAuth, Sanity | [🔗 View Repo](https://github.com/Yranshevare/YC_directory.git) |
-| 🧠 **BugToPro_AI** | AI powered learning platform that helps developers improve by reviewing their code and providing AI feedback.| Next.js, Langchain, Langgraph, Mongodb, supabase, gemini | [🔗 View Repo](https://github.com/Yranshevare/BugToPro_AI.git) |
-| 🛍️ **Automate Product Purchase** |Automates the procurement process (RFQ) with email automation to streamline vendor communication. | React, Django, MySql | [🔗 View Repo](https://github.com/Yranshevare/Automate_Product_purchase.git) |
-| 🌐 **Carbon Footprint Calculator** |Estimates a user’s carbon footprint based on daily habits, integrated with LangFlow for AI-powered analysis. | React, Express.js, MongoDb | [🔗 View Repo](https://github.com/Yranshevare/carbon_footprint.git) |
-| 🕹️ **V-Room** | A secure, login-free chat app enabling private communication that auto-deletes all data after each session. | Next.Js, Redis, socket IO, Express | [🔗 View Repo](https://github.com/Yranshevare/V-Room.git) |
-| 📘 **Catalogue Website** | A full-stack e-commerce catalogue platform for showcasing and managing factory products. | Next.Js, Prisma, Mongodb | [🔗 View Repo](https://github.com/Yranshevare/Catalogue_website.git) |
+| Project Name                     | Description                                                                                                                                                                                    | Tech Stack                                       | Link                                                                         |
+| -------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ | ---------------------------------------------------------------------------- |
+| 🛍️ **Automate Product Purchase** | Automates the procurement process (RFQ) with email automation to streamline vendor communication.                                                                                              | React, Django, MySql                             | [🔗 View Repo](https://github.com/Yranshevare/Automate_Product_purchase.git) |
+| 🕹️ **V-Room**                    | A secure, login-free chat app enabling private communication that auto-deletes all data after each session.                                                                                    | Next.Js, Redis, socket IO, Express               | [🔗 View Repo](https://github.com/Yranshevare/V-Room.git)                    |
+| 🧠 **BugToPro_AI**               | AI powered learning platform that helps developers improve by reviewing their code and providing AI feedback.                                                                                  | Next.js, Langchain, Langgraph, Mongodb, supabase | [🔗 View Repo](https://github.com/Yranshevare/BugToPro_AI.git)               |
+| 🤖 Orchestrator                  | A vendor-agnostic AI orchestration platform that centralizes project context, breaks down tasks, and coordinates multiple AI coding agents in parallel through a unified development workflow. | TypeScript, OpenTUI, Langgraph                   | [🔗 View Repo](https://github.com/Yranshevare/Orchestrator.git)              |
 
 ---
-
-
 
 <h3 align="center">✍️ Quote of the Day<h3/>
 <br/>
@@ -117,19 +112,10 @@ Check it out here 👉 [**@Yadnesh-Ranshevare**](https://github.com/Yadnesh-Rans
 
 ---
 
-
-
-
 ### 🎨 Fun Fact About Me
-
-
 
 > 💻 Developer by mind  
 > ✏️ Artist by heart  
 > 🌌 Dreamer by soul
 
 ---
-
-
-
-
