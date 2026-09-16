@@ -1,11 +1,4 @@
-<video
-src="https://res.cloudinary.com/dknlbzgap/video/upload/v1789572204/q5r1ac8xjnohllghqxm7.mp4"
-  autoplay
-  muted
-  loop
-  playsinline
-  width="100%">
-</video>
+![img](banner.png)
 
 <h3 align="center">👨‍💻 About Me</h3>
 
